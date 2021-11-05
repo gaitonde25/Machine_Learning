@@ -1,5 +1,6 @@
 # Machine Learning Algorithms
-* Bagging
-* Linear Regression 
+* Logistic Regression 
 * Ridge Regression
+* Issues Classification
+* Bagging
 * Naive Bayes Classifier
