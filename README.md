@@ -1,2 +1,5 @@
 # Machine Learning Algorithms
-* yu
+* Bagging
+* Linear Regression 
+* Ridge Regression
+* Naive Bayes Classifier
